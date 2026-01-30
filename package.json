@@ -1,0 +1,16 @@
+{
+  "name": "rhdh-notebooklm-sources",
+  "version": "1.0.0",
+  "main": "get-rhdh-docs.js",
+  "scripts": {
+    "start": "node get-rhdh-docs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
