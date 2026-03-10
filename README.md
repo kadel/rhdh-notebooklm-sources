@@ -56,6 +56,10 @@ Administration
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.8/html-single/administration_guide/...
 ```
 
+## Automation
+
+A GitHub Action runs weekly (Monday at midnight UTC) to regenerate `docs-links-latest.txt` with the latest RHDH documentation URLs. It can also be triggered manually via `workflow_dispatch`. The file is committed to the repo only if the links have changed.
+
 ## License
 
 ISC
