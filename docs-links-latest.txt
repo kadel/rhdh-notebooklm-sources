@@ -1,0 +1,37 @@
+
+> rhdh-notebooklm-sources@1.0.0 start
+> node get-rhdh-docs.js latest
+
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/about_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/red_hat_developer_hub_release_notes
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/setting_up_and_configuring_your_first_red_hat_developer_hub_instance
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/navigate_red_hat_developer_hub_on_your_first_day
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_openshift_container_platform
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_microsoft_azure_kubernetes_service_aks
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_amazon_elastic_kubernetes_service_eks
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_openshift_dedicated_on_google_cloud
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_google_kubernetes_engine_gke
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_in_an_air-gapped_environment
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/upgrading_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/configuring_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/customizing_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/techdocs_for_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/authentication_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/authorization_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/integrating_red_hat_developer_hub_with_github
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/interacting_with_red_hat_developer_lightspeed_for_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/interacting_with_model_context_protocol_tools_for_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/accelerate_ai_development_with_openshift_ai_connector_for_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/streamline_software_development_and_management_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/manage_and_consume_technical_documentation_within_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/adoption_insights_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/audit_logs_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/monitoring_and_logging
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/telemetry_data_collection_and_analysis
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/evaluate_project_health_using_scorecards
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/orchestrator_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/develop_and_deploy_dynamic_plugins_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_and_viewing_plugins_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/using_dynamic_plugins_in_red_hat_developer_hub
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/dynamic_plugins_reference
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/configuring_dynamic_plugins
