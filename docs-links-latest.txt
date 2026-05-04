@@ -4,6 +4,7 @@
 
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/about_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/red_hat_developer_hub_release_notes
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/explore_preview_of_emerging_and_supplemental_capabilities
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/setting_up_and_configuring_your_first_red_hat_developer_hub_instance
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/navigate_red_hat_developer_hub_on_your_first_day
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/installing_red_hat_developer_hub_on_openshift_container_platform
@@ -18,7 +19,7 @@ https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/c
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/techdocs_for_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/authentication_in_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/authorization_in_red_hat_developer_hub
-https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/integrating_red_hat_developer_hub_with_github
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/integrating_red_hat_developer_hub_with_your_git_provider
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/interacting_with_red_hat_developer_lightspeed_for_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/interacting_with_model_context_protocol_tools_for_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/accelerate_ai_development_with_openshift_ai_connector_for_red_hat_developer_hub
@@ -35,3 +36,4 @@ https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/i
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/using_dynamic_plugins_in_red_hat_developer_hub
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/dynamic_plugins_reference
 https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/configuring_dynamic_plugins
+https://docs.redhat.com/en/documentation/red_hat_developer_hub/1.9/html-single/helm_chart_configuration_reference
